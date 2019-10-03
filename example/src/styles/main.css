@@ -1,6 +1,8 @@
 .pageHeader{
     display: flex;
     justify-content: center;
+    font-weight: bolder;
+    margin-bottom: 20px
 }
 
 .list {
@@ -8,7 +10,11 @@
     flex-wrap: wrap;
     justify-content: space-around;
 }
-.shop{
-   
+.shop{   
     width: 33%;
+    margin-bottom: 10px;
+}
+.name {
+    font-weight: bolder;
+    
 }

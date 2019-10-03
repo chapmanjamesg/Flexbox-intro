@@ -15,3 +15,18 @@
     width: 33%;
     margin-bottom: 10px;
 }
+.name {
+    display: flex;
+    font-weight: bolder;
+    font-size: 20px;
+    
+}
+.address {
+color: blueviolet;
+}
+.phoneNumber {
+    color: goldenrod;
+}
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
